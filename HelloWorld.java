@@ -1,5 +1,5 @@
 public class HelloWorld{
  public static void main(String args[]){
-   System.out.println("--------------*****Hello world and welcome to jenkins training****------");
+   System.out.println("--------------*****Running java file through github and jenkins integration****------");
 }
 }
